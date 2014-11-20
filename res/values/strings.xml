@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Musique2</string>
+    <string name="title_section1">Songs</string>
+    <string name="title_section2">Artists</string>
+    <string name="title_section3">Albums</string>
+    <string name="title_section4">Playlist</string>
+
+</resources>
